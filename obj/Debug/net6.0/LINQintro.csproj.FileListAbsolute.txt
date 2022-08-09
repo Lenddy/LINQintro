@@ -1,0 +1,15 @@
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\bin\Debug\net6.0\LINQintro.exe
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\bin\Debug\net6.0\LINQintro.deps.json
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\bin\Debug\net6.0\LINQintro.runtimeconfig.json
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\bin\Debug\net6.0\LINQintro.dll
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\bin\Debug\net6.0\LINQintro.pdb
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\obj\Debug\net6.0\LINQintro.csproj.AssemblyReference.cache
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\obj\Debug\net6.0\LINQintro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\obj\Debug\net6.0\LINQintro.AssemblyInfoInputs.cache
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\obj\Debug\net6.0\LINQintro.AssemblyInfo.cs
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\obj\Debug\net6.0\LINQintro.csproj.CoreCompileInputs.cache
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\obj\Debug\net6.0\LINQintro.dll
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\obj\Debug\net6.0\refint\LINQintro.dll
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\obj\Debug\net6.0\LINQintro.pdb
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\obj\Debug\net6.0\LINQintro.genruntimeconfig.cache
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\LINQintro\obj\Debug\net6.0\ref\LINQintro.dll
